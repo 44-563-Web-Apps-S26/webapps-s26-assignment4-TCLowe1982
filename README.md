@@ -4,4 +4,4 @@
 
 A practice assignment for HTML with CSS
 
-[Hosted at github pages](https://github.com/44-563-Web-Apps-S26/webapps-s26-assignment4-TCLowe1982)
+[Hosted at github pages](https://github.com/44-563-Web-Apps-S26/webapps-s26-assignment4-TCLowe1982/blob/main/index.html)
