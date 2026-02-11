@@ -1,0 +1,128 @@
+/* Speech class */
+.speech {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/* Song class */
+.song {
+    font-family: 'Times New Roman', serif;
+    font-size: 14px;
+    color: #555;
+    font-style: italic;
+    line-height: 1.8;
+    text-align: center;
+}
+
+/* Direction class */
+.direction {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: black;
+    background-color: #f0f0f0;
+    padding: 5px;
+}
+
+.direction:hover {
+    background-color: #333;
+    color: white;
+}
+
+/* Name class */
+.name {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+/* Group styles */
+
+.chorus {
+    color: #4a148c;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.contadine {
+    color: #880e4f;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.girls {
+    color: #ad1457;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.all {
+    color: #311b92;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.soli {
+    color: #1a237e;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Character styles */
+
+.fiametta {
+    color: #c2185b;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.giulia {
+    color: #7b1fa2;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.vittoria {
+    color: #d84315;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.antonio {
+    color: #1565c0;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.francesco {
+    color: #2e7d32;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.giorgio {
+    color: #ef6c00;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.marco {
+    color: #b71c1c;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.giuseppe {
+    color: #0d47a1;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
